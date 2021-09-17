@@ -2,7 +2,6 @@
  
 - Projeto final do  modulo de Java - GENERATION </br>
 
-##
 O projeto se trata de uma aplicação para controle de finanças.
   <br>
     <br>
