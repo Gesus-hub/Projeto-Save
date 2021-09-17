@@ -11,7 +11,7 @@ O projeto se trata de uma aplicação para controle de finanças.
     
 - Tecnologia utilizada
 
-A tecnologia utilizada para o desenvolvimento do mesmo foi java, com conceitos de polimorfismo, herança e orientação a objeto. 
+A tecnologia utilizada para o desenvolvimento do mesmo foi java com conceitos de polimorfismo, herança e orientação a objeto. 
   <br>
     <br>
     
